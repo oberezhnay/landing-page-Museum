@@ -22,20 +22,23 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the repository
 
-```bash
+```
 git clone https://github.com/oberezhnay/layout_landing-page.git
 cd layout_landing-page
+```
 
 2. Install dependencies
 
-```bash
+```
 npm install
 # or
 yarn install
+```
 
 3. Run the project locally
 
-```bash
+```
 npm start
 # or
 yarn start
+```
