@@ -7,7 +7,7 @@ This project was created to practice layout development, semantic markup, and ba
     - [DEMO LINK](https://oberezhnay.github.io/landing-page-Museum/)
 
 ## 🎨 Design Reference
-  - [FIGMA DESIGN](figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?t=TOqZN1o6kKXgUpa9-0)
+  - [FIGMA DESIGN](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?t=TOqZN1o6kKXgUpa9-0)
 
 ## 🛠 Technologies Used
 
