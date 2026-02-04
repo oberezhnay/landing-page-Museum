@@ -4,7 +4,7 @@ A **static landing page** built with HTML and CSS.
 This project was created to practice layout development, semantic markup, and basic responsive design techniques.
 
 ## 🔗 Live Preview
-    - [DEMO LINK](https://oberezhnay.github.io/landing-page-Museum/)
+  - [DEMO LINK](https://oberezhnay.github.io/landing-page-Museum/)
 
 ## 🎨 Design Reference
   - [FIGMA DESIGN](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?t=TOqZN1o6kKXgUpa9-0)
